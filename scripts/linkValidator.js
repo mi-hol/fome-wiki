@@ -1,3 +1,4 @@
+"use strict";
 /*
  * usage:
  * note: Windows path separator used below! (to avoid error with parsing of this comment block)
